@@ -179,7 +179,7 @@
         
         <!-- BAGIAN KIRI: FOTO -->
         <div class="photo-section">
-            <img src="irene.jpeg" alt="Foto Irene">
+            <img src="56499815-b037-4e3d-b737-28da27921690.jpeg" alt="Foto Irene">
         </div>
 
         <!-- BAGIAN KANAN: SLIDESHOW UCAPAN -->
